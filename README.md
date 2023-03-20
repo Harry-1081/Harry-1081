@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasanna V</h1>
-<h3 align="center">A passionate coding enthusiast from India</h3>
-
+<h3 align="center">A passionate coding enthusiast from India</h3> 
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-1081&label=Profile%20views&color=0e75b6&style=flat" alt="harry-1081" /> </p>
 
 - 🌱 I’m currently learning **Solidity**
