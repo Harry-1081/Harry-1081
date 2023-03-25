@@ -30,6 +30,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harry-1081&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harry-1081&theme=transparent)](https://git.io/streak-stats)
+
 ---
 <p align="left">
 <a href="https://instagram.com/freak_.1411" target="_blank">
@@ -40,4 +43,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </p>
+
 
