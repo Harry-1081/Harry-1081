@@ -2,9 +2,9 @@
 <h3 align="center">A passionate coding enthusiast from India</h3> 
 <br></br>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Natural Language Processing**
 - 📫 How to reach me **theharryverse@gmail.com**
-- ⚡ Fun fact **I have some crazy projects, that were created on a whim !**
+- 🫱🏼‍🫲🏻 I'm **open** to collaborating on different projects.
 <br></br>
 
 ## 💻 Languages and Tools:
@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwind logo"/>        
 </div>
 
 <br></br>
@@ -35,10 +36,10 @@
 
 ---
 <p align="left">
-<a href="https://instagram.com/freak_.1411" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.buymeacoffee.com/prasannaharry" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" alt=coffee style="margin-bottom: 5px;" />
 </a>
-<a> </a>
+<a width="5"> </a>
 <a href="https://linkedin.com/in/prasanna-v-224753224" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
